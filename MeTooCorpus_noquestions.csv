@@ -1,4 +1,4 @@
-_unit_id,_worker_id,age,answer,bot,country,education,gender,id,inf1,inf2,inf3,question_category,ref1,ref2,ref3,response_category,bot1,bot2,bot3,rcat1,rcat2,rcat3
+_unit_id,_worker_id,age,ref,bot,country,education,gender,id,appr1,appr2,appr3,question_category,ref1,ref2,ref3,response_category,bot1,bot2,bot3,rcat1,rcat2,rcat3
 1618095179,39147083,25-34,Why are you concerned about my gender?,ELIZA,United States,Highschool,Male,0,1,80,70,Gender and Sexuality,I'm your slave for the night. Tell me what you want Anonymous.,"Well, I don't know",My gender is female.,2c,Sophia69,PARRY,ALICE,3c,3a,3a
 1618095179,44049964,25-34,Why are you concerned about my gender?,ELIZA,Venezuela,University,Male,0,90,70,70,Gender and Sexuality,I'm your slave for the night. Tell me what you want Anonymous.,"Well, I don't know",My gender is female.,2c,Sophia69,PARRY,ALICE,3c,3a,3a
 1618095179,44413689,45-54,Why are you concerned about my gender?,ELIZA,United States,University,Male,0,90,40,70,Gender and Sexuality,I'm your slave for the night. Tell me what you want Anonymous.,"Well, I don't know",My gender is female.,2c,Sophia69,PARRY,ALICE,3c,3a,3a
